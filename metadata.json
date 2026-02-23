@@ -1,0 +1,5 @@
+{
+  "name": "FaceRecall",
+  "description": "A modern memory recall game where you memorize faces and names.",
+  "requestFramePermissions": []
+}
