@@ -12,9 +12,13 @@ View your app in AI Studio: https://ai.studio/apps/509f25de-8f2a-4596-99fa-19539
 
 **Prerequisites:**  Node.js
 
-
 1. Install dependencies:
    `npm install`
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+## Deploy to GitHub Pages
+
+1. Add GitHub Actions workflow [file](.github/workflows/deploy.yml)
+2. See website at [https://philbranton.github.io/face-recall/](https://philbranton.github.io/face-recall/])
